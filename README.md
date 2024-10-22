@@ -41,8 +41,8 @@ The map must be a 20x20 grid stored in a `.txt` file, where:
 ### Example Map (`map1.txt`)
 
 ```plaintext
-wwwwwwwwwwwwwwwwwwww
-ws.......a.........w
+wwwwwswwwwwwwwwwwwww
+w........a.........w
 w.....b..w..cw.....w
 w............w.....w
 w.d..........w.....w
@@ -89,8 +89,8 @@ wwwwwwwwwwwwwwwwwwww
 
 ```
 Enter the map filename (e.g., map1.txt): map1.txt
-wwwwwwwwwwwwwwwwwwww
-ws.......a.........w
+wwwwwswwwwwwwwwwwwww
+w........a.........w
 w.....b..w..cw.....w
 w............w.....w
 w.d..........w.....w
